@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+You can add global styles to this file,
+and also import other style files body {
+  background: #222222;
+  color: #dedede;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}

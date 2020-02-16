@@ -1,0 +1,24 @@
+p {
+  font-size: 24px;
+}
+
+input {
+  box-shadow: 1pc white;
+}
+
+header img {
+  height: 200px;
+  width: auto;
+}
+
+h1 {
+  font-family: "Anton", sans-serif;
+  font-size: 48px;
+}
+
+.quote {
+  border: 2px dashed white;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}

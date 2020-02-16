@@ -1,0 +1,19 @@
+p {
+  display: inline;
+  color: white;
+}
+
+footer :hover {
+  color: green;
+  background: black;
+}
+
+footer {
+  background-color: #171b1f;
+  padding: 5px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: auto;
+  width: 100%;
+}
